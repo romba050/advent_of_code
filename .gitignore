@@ -1,3 +1,4 @@
 .env
 *.in
 *advent_of_code
+../.vscode/
