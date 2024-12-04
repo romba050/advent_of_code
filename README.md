@@ -1,3 +1,7 @@
+## About
+My solutions to the daily december challenges at:
+https://adventofcode.com/
+
 ## Setup
 
 1. Copy `.env.example` to `.env`
